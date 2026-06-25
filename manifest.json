@@ -1,8 +1,8 @@
 {
   "name": "Media UniGe",
-  "short_name": "Media",
+  "short_name": "UniGe",
   "description": "Calcolatore media universitaria pesata sui CFU",
-  "start_url": "/",
+  "start_url": "https://lubozzus.github.io/Media-unige/",
   "display": "standalone",
   "background_color": "#0f1117",
   "theme_color": "#0f1117",
@@ -11,7 +11,7 @@
     {
       "src": "icon.png",
       "sizes": "any",
-      "type": "image/png+xml",
+      "type": "image/png",
       "purpose": "any maskable"
     }
   ]
